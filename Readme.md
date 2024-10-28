@@ -23,14 +23,14 @@ The main goal of this project is to demonstrate concurrent web scraping capabili
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/wikipedia-web-scraper.git
-    cd wikipedia-web-scraper
+    git clone https://github.com/Kevin-jc-github/Crawling_Web.git
+    cd Crawling_Web
     ```
 
 2. Initialize a Go module and install the dependencies:
 
     ```sh
-    go mod init wikipedia-web-scraper
+    go mod init Crawling_Web
     go get github.com/gocolly/colly/v2
     ```
 
